@@ -1,0 +1,23 @@
+StrainTensor.py Version: 1.0-r1
+Command used:
+	StrainTensor.py -i ./data/test.vel -r 73/77/40/44 --x-grid-step=0.085 --y-grid-step=0.085 -m veis -c -g
+Run at: Thu Aug 11 11:16:12 2022
+Command line switches/options parsed:
+	x_grid_step          -> 0.085
+	y_grid_step          -> 0.085
+	method               -> veis
+	cut_outoflim_sta     -> True
+	one_tensor           -> False
+	max_beta_angle       -> 180
+	ltype                -> gaussian
+	Wt                   -> 24
+	dmin                 -> 1
+	dmax                 -> 500
+	dstep                -> 2
+	d_coef               -> None
+	generate_stats       -> True
+	verbose_mode         -> False
+	multiproc_mode       -> False
+	version              -> False
+	gps_file             -> ./data/test.vel
+	region               -> 73/77/40/44

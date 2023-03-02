@@ -1,0 +1,3 @@
+Latitude  Longtitude     vx+dvx          vy+dvy           w+dw          exx+dexx        exy+dexy        eyy+deyy       emax+demax      emin+demin       shr+dshr        azi+dazi      dilat+ddilat   sec. invariant+dsec inv.
+   deg       deg         mm/yr           mm/yr          deg/Myr       nstrain/yr      nstrain/yr      nstrain/yr      nstrain/yr      nstrain/yr      nstrain/yr         deg.         nstrain/yr      nstrain/yr   
+ 42.70582  74.76726    +5.0 -          +4.0 -          +0.0 -          +0.0 -          -0.0 -          +0.0 -          +0.0 -          -0.0 -          +0.0 -        +137.5 -          +0.0 -          +0.0 -      
